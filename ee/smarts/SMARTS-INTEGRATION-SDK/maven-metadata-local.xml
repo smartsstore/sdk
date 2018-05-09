@@ -4,8 +4,8 @@
   <artifactId>SMARTS-INTEGRATION-SDK</artifactId>
   <versioning>
     <versions>
-      <version>0.0.9-SNAPSHOT</version>
+      <version>0.1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180509172545</lastUpdated>
+    <lastUpdated>20180509183722</lastUpdated>
   </versioning>
 </metadata>
